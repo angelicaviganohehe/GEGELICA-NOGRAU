@@ -1,0 +1,1 @@
+const perguntassss = document.querySelectorAll(".botao");
